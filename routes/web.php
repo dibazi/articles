@@ -14,12 +14,13 @@ use App\Http\Controllers\articleController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {return view('welcome') });
+
 Route::get('/add', function () {
     return view('articles/actions/store')->name('create.article');
 });
+
+Route::get('/', [articleController::class, 'index'])->name('index.articles');
 
 Route::get('/create', [articleController::class, 'create'])->name('create.article');
 
