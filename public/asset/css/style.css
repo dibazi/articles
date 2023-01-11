@@ -1,0 +1,43 @@
+
+body {
+    font-family: "Open sans", sans-sedrif;
+    color: #000000;
+}
+ul li a {
+    color: #5c9f24;
+}
+a:hover {
+    color:  #74c92d;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h5{
+    font-family: "Roboto", sans-serif ;
+}
+#header {
+    background: #000000;
+    padding: 15px;
+}
+#header .logo {
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+#header .logo a {
+    color: #fff;
+}
+.nav-menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.nav-menu > ul{
+    display: flex;
+}
+.nav-menu > ul > li{
+    position: relative;
+    white-space: nowrap;
+    padding: 10px 0 10 22px;
+}

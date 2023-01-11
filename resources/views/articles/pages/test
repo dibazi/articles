@@ -1,0 +1,61 @@
+/** 
+  <div class="content">
+      <img src="" alt="">
+      <h3>Earphoneoes</h3>
+      <p>the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      <h6>$40.00</h6>
+      <ul>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star "></i></li>
+          <li><i class="fa fa-star "></i></li>
+      </ul>
+      <button id="button" class="buy">Buy Now</button>
+  </div>
+
+  <div class="content">
+      <img src="" alt="">
+      <h3>Watch</h3>
+      <p>the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      <h6>$70.00</h6>
+      <ul>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star "></i></li>
+          <li><i class="fa fa-star "></i></li>
+      </ul>
+      <button id="button" class="buy">Buy Now</button>
+  </div>
+
+  <div class="content">
+      <img src="" alt="">
+      <h3>Mabile</h3>
+      <p>the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      <h6>$1000.00</h6>
+      <ul>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star "></i></li>
+          <li><i class="fa fa-star "></i></li>
+      </ul>
+      <button id="button" class="buy">Buy Now</button>
+  </div>
+
+  <div class="content">
+      <img src="" alt="">
+      <h3>Watch</h3>
+      <p>the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      <h6>$70.00</h6>
+      <ul>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star checked"></i></li>
+          <li><i class="fa fa-star "></i></li>
+          <li><i class="fa fa-star "></i></li>
+      </ul>
+      <button id="button" class="buy">Buy Now</button>
+  </div>
+  */
